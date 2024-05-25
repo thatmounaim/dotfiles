@@ -61,7 +61,7 @@ unzip FiraCode.zip -d $HOME/.fonts/FiraCode/
 rm FiraCode.zip
 ```
 
-#Dotfiles + Stow 
+# Dotfiles + Stow 
 
 ```bash
 cd
