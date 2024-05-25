@@ -59,6 +59,7 @@ mkdir -p $HOME/.fonts/FiraCode/
 curl https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip -L -o FiraCode.zip
 unzip FiraCode.zip -d $HOME/.fonts/FiraCode/
 rm FiraCode.zip
+```
 
 #Dotfiles + Stow 
 
