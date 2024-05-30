@@ -1,7 +1,7 @@
 # Dependencies
 
 ```bash
-sudo dnf install neovim ripgrep fzf fd-find tmux unzip gcc make git zsh nodejs golang pnpm maim xdotool xclip stow
+sudo dnf install neovim ripgrep fzf fd-find tmux unzip gcc make git zsh nodejs golang pnpm maim xdotool xclip stow rofi polybar
 ```
 # Install Tmux TPM
 ```bash
